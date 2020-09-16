@@ -10,6 +10,8 @@
 
 
 ![](E2E/E2E/Textcleaning_pipeline.png)
+
+
 ## List of Text Preprocessing Steps
 Remove HTML tags.
 Remove extra whitespaces.
@@ -30,7 +32,7 @@ Tokenization is a step which splits longer strings of text into smaller pieces, 
 
 ## Stemming
 Stemming is the process of reducing inflection in words (e.g. troubled, troubles) to their root form (e.g. trouble). The “root” in this case may not be a real root word, but just a canonical form of the original word.
-![](EE2E/stemming_lemme.png)
+![](E2E/stemming_lemme.png)
 
 ## Lemmatization
 Lemmatization on the surface is very similar to stemming, where the goal is to remove inflections and map a word to its root form. The only difference is that, lemmatization tries to do it the proper way. It doesn’t just chop things off, it actually transforms words to the actual root
