@@ -3,7 +3,8 @@
 
 ## NLP life cycle 
 
-![](E2E/chartflow%20.png)
+
+![](E2E/E2E_chartflow%20.png)
 
 ## List of Text Preprocessing Steps
 Remove HTML tags.
