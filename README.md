@@ -9,7 +9,7 @@
 ## E2E Text Clening Pipe-line 
 
 
-![](E2E/E2E_Textcleaning_pipeline)
+![](E2E/E2E/Textcleaning_pipeline.png)
 ## List of Text Preprocessing Steps
 Remove HTML tags.
 Remove extra whitespaces.
@@ -30,12 +30,11 @@ Tokenization is a step which splits longer strings of text into smaller pieces, 
 
 ## Stemming
 Stemming is the process of reducing inflection in words (e.g. troubled, troubles) to their root form (e.g. trouble). The “root” in this case may not be a real root word, but just a canonical form of the original word.
-![](E2E/E2E_stemming_lemme.png)
+![](EE2E/stemming_lemme.png)
+
 ## Lemmatization
 Lemmatization on the surface is very similar to stemming, where the goal is to remove inflections and map a word to its root form. The only difference is that, lemmatization tries to do it the proper way. It doesn’t just chop things off, it actually transforms words to the actual root
-![](E2E/E2E_diff_Lemmit_stemming.png)
-
-
+![](E2E/diff_Lemmit_stemming.png)
 
 ## Stopword Removal
 Stop words are a set of commonly used words in a language. Examples of stop words in English are “a”, “the”, “is”, “are” and etc. The intuition behind using stop words is that, by removing low information words from text, we can focus on the important words instead.
