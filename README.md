@@ -6,6 +6,10 @@
 
 ![](E2E/E2E_chartflow.png)
 
+## E2E Text Clening Pipe-line 
+
+
+![](E2E/E2E_Textcleaning_pipeline)
 ## List of Text Preprocessing Steps
 Remove HTML tags.
 Remove extra whitespaces.
@@ -16,6 +20,7 @@ Lowercase all texts.
 Convert number words to numeric form.
 Remove numbers.
 
+![](E2E/CommontextPreProcessing.PNG)
 
 ## Lowercasing
 Lowercasing ALL your text data, although commonly overlooked, is one of the simplest and most effective form of text preprocessing. It is applicable to most text mining and NLP problems and can help in cases where your dataset is not very large and significantly helps with consistency of expected output.
